@@ -10,7 +10,9 @@ summoners.
 This application has 5 options: show summoner statistics, display match 
 information, get champion id, display server status, and exit. 
 
-Note that this application is written in Python 3.   
+Note that this application is written in Python 3. For security purposes the 
+APIKEY has been taken out. Please go to the Riot Games API website
+https://developer.riotgames.com/ and generate your own API key.   
 
 
 # High Level Overview of the Options
