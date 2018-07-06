@@ -8,7 +8,7 @@ import json
 import os, ssl
 
 # Global variables
-APIKEY = "RGAPI-1951f5fb-d915-4b9a-80cf-a6d71310d75b"
+APIKEY = ""
 watcher = RiotWatcher(APIKEY)
 
 # A python dictionary is implemented as a hash table
